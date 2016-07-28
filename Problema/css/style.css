@@ -1,0 +1,149 @@
+
+
+h4{
+	color:grey;
+	margin-top:10%;
+	font-size:15px;
+}
+
+#backg{
+	background-color:grey;
+}
+#big{
+	font-size:40px;
+}
+#img2{
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:390px;
+}
+
+#apartado{
+	margin-top:100px;
+}
+
+#age{
+	text-align:center;
+	margin-top:5px;
+}
+.white{
+	color:white;
+	margin-top:5px;
+	font-size:15px;
+}
+
+#youtube{
+	background-color:#F7D358;
+	width:150px; 
+	height:60px; 
+	border-radius:5px;
+	margin:10px;
+	color:white;
+	font-size:16px;
+
+}
+#all{
+	width:90px; 
+	height:40px;
+	border:solid green;
+	border-radius:5px;
+	color:green;
+}
+
+#background{
+	background-color:orange;
+	padding:5px;
+	width:1348px;
+	
+}
+
+.search{
+	margin-top:30px;
+}
+
+.line{
+	width:150px;
+	height:150px;
+	margin:15px;
+
+}
+
+#longitud{
+	width:300px;
+}
+iframe{
+	width:1348px;
+	height:350px;
+
+}
+
+.separacion{
+	margin-top:30px;
+}
+
+.ultimate{
+	width:250px;
+	height:250px;
+	margin:40px 30px 20px 20px;
+}
+
+#gris{
+	background-color:#E6E6E6;
+	border-radius:5px;
+	width:1348px;
+}
+
+.footer1{
+	margin:15px;
+}
+
+.fontcolor{
+	color:#BDBDBD;
+}
+
+
+.color{
+	font-size:30px;
+	color:#E6E6E6;
+}
+#book{
+	font-size:35px;
+}
+
+#bot{
+	background-color: #B43104;
+}
+
+#marron{
+	color:#B43104;
+	font-size:18px;
+	font-family::Cursive;
+} /*get discount*/
+
+#bookbutton{
+	background-color:#DF7401;
+	width:150px; 
+	height:60px; 
+	border-radius:5px;
+	margin:10px;
+	color:white;
+	font-size:16px;
+}
+
+hr{
+	margin:15px;
+}
+
+#new{
+	margin-bottom:10px;
+}
+
+.lorem{
+	color:#D8D8D8;
+}
+
+#more{
+	color:#DF7401;
+	text-decoration:none;
+}
